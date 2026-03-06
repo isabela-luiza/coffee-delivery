@@ -111,26 +111,6 @@ A aplicação foi desenvolvida como projeto de estudos para praticar conceitos m
 - Tratamento de edge cases
 - Validação de dados do usuário
 
-## Estrutura do Projeto
-
-coffee-delivery/
-├── app/
-│   ├── cart/
-│   │   └── page.tsx          # Página do carrinho
-│   ├── success/
-│   │   └── page.tsx          # Página de sucesso
-│   └── page.tsx              # Página inicial
-├── components/
-│   ├── Header.tsx            # Cabeçalho com carrinho e seletor de cidade
-│   ├── Hero.tsx              # Seção hero da página inicial
-│   └── CoffeCard.tsx         # Card de produto
-├── contexts/
-│   └── CartContext.tsx       # Context API do carrinho
-├── data/
-│   └── coffes.ts             # Dados dos produtos
-└── public/
-    └── images/               # Imagens dos cafés
-
 ## Objetivos de Aprendizado Alcançados
 
 - Domínio de React Hooks e Context API
